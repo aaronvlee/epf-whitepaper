@@ -21,7 +21,7 @@ This repository hosts the white paper and materials for the **Entropic Persisten
 ## Cite this work
 If you reference or build on this work, please cite:
 
-> Brenes Bobea, J. H. (2025). *The Entropic Persistence Framework (EPF): A Foundational Blueprint for Post-Human Intelligence*. (Version v1.0.0). DOI: **TBD**
+Brenes Bobea, J. H. (2025). *The Entropic Persistence Framework (EPF): A Foundational Blueprint for Post-Human Intelligence*. v1.0.0. https://doi.org/10.5281/zenodo.16808925
 
 A machine-readable citation is in `CITATION.cff`. After you mint a DOI (e.g., via Zenodo), update both places.
 
