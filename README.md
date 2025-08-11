@@ -36,3 +36,6 @@ Open a **GitHub Discussion** or **Issue** with concrete critique, references, or
 ---
 
 *AI‑assistance disclosure:* drafting/editing support by GPT-5 and Google Gemini Thinking; all claims and edits reviewed and approved by the human author, who accepts full responsibility for the content.
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16808925.svg)](https://doi.org/10.5281/zenodo.16808925)
