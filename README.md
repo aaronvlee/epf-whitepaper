@@ -8,6 +8,8 @@
 
 This repository hosts the white paper and materials for the **Entropic Persistence Framework (EPF)** — a six-layer architecture for designing and evaluating persistent, non‑biological life systems that resist entropy across physical and informational layers.
 
+👉 **Join the technical feedback thread:** https://github.com/jbrenes76/epf-whitepaper/discussions/1
+
 ## Files
 - `EPF_whitepaper.pdf` — publication-ready PDF
 - `EPF_whitepaper.docx` — source document
