@@ -1,8 +1,8 @@
 # The Entropic Persistence Framework (EPF): A Foundational Blueprint for Post-Human Intelligence
 
 **Author:** Juvenal Hernando Brenes Bobea 
-**Email:** juvenal.brenes@gmail.com  
-**Version:** v1.0.0 
+**Email:** juvenal.brenes@gmail.com
+**Version:** v1.0.0
 **Date:** 2025-08-11
 
 This repository hosts the white paper and materials for the **Entropic Persistence Framework (EPF)** — a six-layer architecture for designing and evaluating persistent, non‑biological life systems that resist entropy across physical and informational layers.
