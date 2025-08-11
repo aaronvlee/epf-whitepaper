@@ -35,4 +35,4 @@ Open a **GitHub Discussion** or **Issue** with concrete critique, references, or
 
 ---
 
-*AI‑assistance disclosure:* drafting/editing support by GPT-5 Thinking; all claims and edits reviewed and approved by the human author, who accepts full responsibility for the content.
+*AI‑assistance disclosure:* drafting/editing support by GPT-5 and Google Gemini Thinking; all claims and edits reviewed and approved by the human author, who accepts full responsibility for the content.
